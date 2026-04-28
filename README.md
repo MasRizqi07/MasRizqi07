@@ -31,6 +31,8 @@ Hi there 👋
 - 🎨 CSS
 - ⚡ JavaScript
 - 🐍 Python
+- 👾 C
+- 🐽 C++
 
 ⚙️ Tools & Technologies
 
@@ -76,16 +78,16 @@ Hi there 👋
 🌐 Connect With Me
 
 📧 Email  
-➡️ sembarangananak@gmail.com  
+➡️ achmadriskim07@gmail.com  
 
 💼 LinkedIn  
 ➡️ https://linkedin.com/in/achmad-rizqi-mubarok  
 
 📷 Instagram  
-➡️ https://instagram.com/paacoeel  
+➡️ https://instagram.com/pacoel.dev  
 
 🎥 TikTok  
-➡️ https://tiktok.com/@ikimaspacol  
+➡️ https://tiktok.com/@pacoel.dev  
 
 ---
 

@@ -46,7 +46,7 @@
 │                                                         │
 │  name       :  Rizqi                                    │
 │  role       :  Informatics Engineering Student          │
-│               & Full-Stack Developer & Software Engineer│
+│               & Full-Stack Developer & Software Engineer │
 │  location   :  Surabaya, Indonesia 🇮🇩                    │
 │  college    :  ITATS — Institut Teknologi Adhi Tama     │
 │  community  :  GDGoC ITATS (Google Developer Groups)    │
@@ -278,9 +278,10 @@ jobs:
 <br/>
 
 ---
+<!-- ═══════════════════ SECTION ════════════════════ -->
 
 ## 🚀 Featured Projects
-
+```
 ### 🎬 Becoming.
 AI-powered self reflection platform.
 
@@ -298,6 +299,8 @@ Interactive terminal-inspired portfolio.
 
 Tech:
 HTML • CSS • JavaScript
+```
+<!-- ═══════════════════ SECTION   ════════════════════ -->
 
 <!-- ═══════════════════ PHILOSOPHY ════════════════════ -->
 ## 💭 Engineering Philosophy

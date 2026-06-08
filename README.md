@@ -30,9 +30,9 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
-  ![Profile Views] <img
-                    src="https://komarev.com/ghpvc/?username=MasRizqi07&style=for-the-badge"
-                  />)
+  ![Profile Views] (<img
+                    src="https://komarev.com/ghpvc/?username=MasRizqi07&style=for-the-badge" 
+                      />)
 
 </div>
 

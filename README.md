@@ -30,7 +30,9 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
-  ![Profile Views](https://komarev.com/ghpvc/?username=MasRizqi07&color=58a6ff&style=for-the-badge&label=Profile+Views)
+  ![Profile Views] <img
+                    src="https://komarev.com/ghpvc/?username=MasRizqi07&style=for-the-badge"
+                  />)
 
 </div>
 
@@ -45,12 +47,18 @@
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │  name       :  Rizqi                                    │
-│  role       :  Informatics Engineering Student          │
-│               & Full-Stack Developer & Software Engineer │
-│  location   :  Surabaya, Indonesia 🇮🇩                    │
+│  role:                                                  │
+│  - Informatics Engineering Student                      │
+│  - Full-Stack Developer                                 │
+│  - Software Engineer                                    │
+│                                                         │
+│  location   :  Surabaya, Indonesia 🇮🇩                   │
 │  college    :  ITATS — Institut Teknologi Adhi Tama     │
 │  community  :  GDGoC ITATS (Google Developer Groups)    │
-│  focus      :  Full-Stack Web Dev & System Design       │
+│  focus:                                                 │
+│  - Full-Stack Development                               │
+│  - Software Engineering                                 │
+│  - System Design                                        │
 │  status     :  Open to Collaborations & Internships 🎯  │
 │  philosophy :  "Build things that scale.                │
 │                 Learn things that last."                │
@@ -135,7 +143,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MasRizqi07&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58a6ff&dates=8b949e"
+    src="https://streak-stats.demolab.com?user=MasRizqi07&theme=tokyonight&hide_border=true"
     width="68%"
     alt="GitHub Streak"
   />
@@ -222,13 +230,14 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake-dark.svg"
     />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake-dark.svg"
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake.svg"
     />
-    <img
+   <img
       alt="Snake animation"
-      src="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake-dark.svg
-    />
+      src="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake-dark.svg"
+   />
   </picture>
 </div>
 
@@ -278,30 +287,29 @@ jobs:
 <br/>
 
 ---
-<!-- ═══════════════════ SECTION ════════════════════ -->
-
 ## 🚀 Featured Projects
-```
-### 🎬 Becoming.
-AI-powered self reflection platform.
 
-Tech:
-React • TypeScript • Firebase • Gemini AI
+### 🎬 Becoming.
+
+AI-powered self-reflection platform focused on guided personal growth using AI.
+
+**Stack:** React · TypeScript · Firebase · Gemini AI
+
+---
 
 ### 🎟️ War Ticket
+
 Modern Indonesian concert ticketing platform.
 
-Tech:
-Next.js • TypeScript • PostgreSQL
+**Stack:** Next.js · TypeScript · PostgreSQL
+
+---
 
 ### 🌐 Personal Portfolio
-Interactive terminal-inspired portfolio.
 
-Tech:
-HTML • CSS • JavaScript
-```
-<!-- ═══════════════════ SECTION   ════════════════════ -->
+Interactive terminal-inspired portfolio website.
 
+**Stack:** HTML · CSS · JavaScript
 <!-- ═══════════════════ PHILOSOPHY ════════════════════ -->
 ## 💭 Engineering Philosophy
 

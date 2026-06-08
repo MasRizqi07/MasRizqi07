@@ -30,7 +30,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=for-the-badge&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=MasRizqi07&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -46,8 +46,8 @@
 │                                                         │
 │  name       :  Rizqi                                    │
 │  role       :  Informatics Engineering Student          │
-│               & Aspiring Software Engineer              │
-│  location   :  Surabaya, Indonesia 🇮🇩                  │
+│               & Full-Stack Developer & Software Engineer│
+│  location   :  Surabaya, Indonesia 🇮🇩                    │
 │  college    :  ITATS — Institut Teknologi Adhi Tama     │
 │  community  :  GDGoC ITATS (Google Developer Groups)    │
 │  focus      :  Full-Stack Web Dev & System Design       │
@@ -122,12 +122,12 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
     alt="Top Languages"
   />
 
@@ -135,7 +135,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58a6ff&dates=8b949e"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MasRizqi07&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58a6ff&dates=8b949e"
     width="68%"
     alt="GitHub Streak"
   />
@@ -150,7 +150,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
     width="100%"
     alt="Trophies"
   />
@@ -165,7 +165,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MasRizqi07&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"
     width="100%"
     alt="Activity Graph"
   />
@@ -220,14 +220,14 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake-dark.svg"
     />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake-dark.svg"
     />
     <img
       alt="Snake animation"
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+      src="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake-dark.svg
     />
   </picture>
 </div>
@@ -279,6 +279,26 @@ jobs:
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎬 Becoming.
+AI-powered self reflection platform.
+
+Tech:
+React • TypeScript • Firebase • Gemini AI
+
+### 🎟️ War Ticket
+Modern Indonesian concert ticketing platform.
+
+Tech:
+Next.js • TypeScript • PostgreSQL
+
+### 🌐 Personal Portfolio
+Interactive terminal-inspired portfolio.
+
+Tech:
+HTML • CSS • JavaScript
+
 <!-- ═══════════════════ PHILOSOPHY ════════════════════ -->
 ## 💭 Engineering Philosophy
 
@@ -314,7 +334,7 @@ If you're working on something impactful — let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376/)
 &nbsp;
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com
+[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app)
 

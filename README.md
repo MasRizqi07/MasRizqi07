@@ -30,9 +30,10 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
-  ![Profile Views] <img
-                    src="https://komarev.com/ghpvc/?username=MasRizqi07&style=for-the-badge"
-                  />
+  <img
+src="https://komarev.com/ghpvc/?username=MasRizqi07&style=for-the-badge"
+alt="Profile Views"
+/>
 </div>
 
 <br/>
@@ -45,21 +46,21 @@
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  name       :  Rizqi                                    │
-│  role:                                                  │
-│  - Informatics Engineering Student                      │
-│  - Full-Stack Developer                                 │
-│  - Software Engineer                                    │
+│  Name       :  Ahmad Rizqi Mubarok                      │
+│  Role:                                                  │
+│        - Informatics Engineering Student                │
+│        - Full-Stack Developer                           │
+│        - Software Engineer                              │
 │                                                         │
-│  location   :  Surabaya, Indonesia 🇮🇩                   │
-│  college    :  ITATS — Institut Teknologi Adhi Tama     │
-│  community  :  GDGoC ITATS (Google Developer Groups)    │
-│  focus:                                                 │
-│  - Full-Stack Development                               │
-│  - Software Engineering                                 │
-│  - System Design                                        │
-│  status     :  Open to Collaborations & Internships 🎯  │
-│  philosophy :  "Build things that scale.                │
+│  Location   :  Surabaya, Indonesia 🇮🇩                   │
+│  College    :  ITATS — Institut Teknologi Adhi Tama     │
+│  Community  :  GDGoC ITATS (Google Developer Groups)    │
+│  Focus:                                                 │
+│         - Full-Stack Development                        │
+│         - Software Engineering                          │
+│         - System Design                                 │
+│  Status     :  Open to Collaborations & Internships 🎯  │
+│  Philosophy :  "Build things that scale.                │
 │                 Learn things that last."                │
 │                                                         │
 └─────────────────────────────────────────────────────────┘

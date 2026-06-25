@@ -188,13 +188,15 @@ alt="Profile Views"
 
 <div align="center">
 
-| Project | Stack | Status |
-|:-------:|:-----:|:------:|
-| 🎬 **Becoming.** — Cinematic AI Self-Reflection App | React 19 · TypeScript · Firebase · Gemini AI | 🔨 Active |
-| 🎟️ **War Ticket** — Indonesian Concert Ticketing Platform | Next.js · TypeScript · Framer Motion | 🔨 Active |
-| 🧠 **Personal Portfolio** — Neural Terminal Concept | HTML · CSS · Canvas · Vanilla JS | ✅ Complete |
+| Project | Stack | Status | Links |
+|:-------:|:-----:|:------:|:-----:|
+| 🎬 **Becoming.** — Cinematic AI Self-Reflection App | React 19 · TypeScript · Firebase · Gemini AI | 🔨 Active | [Repo](#) |
+| 🎟️ **War Ticket** — Indonesian Concert Ticketing Platform | Next.js · TypeScript · PostgreSQL · Framer Motion | 🔨 Active | [Repo](#) |
+| 🧠 **Personal Portfolio** — Neural Terminal Concept | HTML · CSS · Canvas · Vanilla JS | ✅ Complete | [Repo](#) |
 
 </div>
+
+<!-- TODO: replace the `#` placeholders above with real repo/demo links before pushing -->
 
 <br/>
 
@@ -287,29 +289,7 @@ jobs:
 <br/>
 
 ---
-## 🚀 Featured Projects
 
-### 🎬 Becoming.
-
-AI-powered self-reflection platform focused on guided personal growth using AI.
-
-**Stack:** React · TypeScript · Firebase · Gemini AI
-
----
-
-### 🎟️ War Ticket
-
-Modern Indonesian concert ticketing platform.
-
-**Stack:** Next.js · TypeScript · PostgreSQL
-
----
-
-### 🌐 Personal Portfolio
-
-Interactive terminal-inspired portfolio website.
-
-**Stack:** HTML · CSS · JavaScript
 <!-- ═══════════════════ PHILOSOPHY ════════════════════ -->
 ## 💭 Engineering Philosophy
 

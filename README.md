@@ -158,7 +158,7 @@ alt="Profile Views"
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MasRizqi07/MasRizqi07/&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
     width="100%"
     alt="Trophies"
   />
@@ -190,13 +190,13 @@ alt="Profile Views"
 
 | Project | Stack | Status | Links |
 |:-------:|:-----:|:------:|:-----:|
-| 🎬 **Becoming.** — Cinematic AI Self-Reflection App | React 19 · TypeScript · Firebase · Gemini AI | 🔨 Active | [Repo](#) |
-| 🎟️ **War Ticket** — Indonesian Concert Ticketing Platform | Next.js · TypeScript · PostgreSQL · Framer Motion | 🔨 Active | [Repo](#) |
-| 🧠 **Personal Portfolio** — Neural Terminal Concept | HTML · CSS · Canvas · Vanilla JS | ✅ Complete | [Repo](#) |
+| 🎬 **Becoming.** — Cinematic AI Self-Reflection App | React 19 · TypeScript · Firebase · Gemini AI | 🔨 Active | ⚠️ NEEDS LINK |
+| 🎟️ **War Ticket** — Indonesian Concert Ticketing Platform | Next.js · TypeScript · PostgreSQL · Framer Motion | 🔨 Active | ⚠️ NEEDS LINK |
+| 🧠 **Personal Portfolio** — Neural Terminal Concept | HTML · CSS · Canvas · Vanilla JS | ✅ Complete | ⚠️ NEEDS LINK |
 
 </div>
 
-<!-- TODO: replace the `#` placeholders above with real repo/demo links before pushing -->
+<!-- ⚠️ UNRESOLVED: these 3 rows still have no real repo URL. Do not push to main until every "⚠️ NEEDS LINK" is replaced with an actual https://github.com/MasRizqi07/... link. A dead "#" link on a profile README is worse than no link at all. -->
 
 <br/>
 
@@ -243,12 +243,12 @@ alt="Profile Views"
   </picture>
 </div>
 
-> ⚠️ **Note:** Snake requires a GitHub Action. See setup instructions below ↓
+> ⚠️ **STATUS: NOT YET ACTIVE.** The `output` branch does not exist yet in this repo — that's why the image above is currently broken. Follow all 4 steps below, in order, or it will stay broken.
 
 <details>
-<summary><b>⚙️ Snake Setup Instructions (click to expand)</b></summary>
+<summary><b>⚙️ Snake Setup Instructions — 4 steps, do ALL of them (click to expand)</b></summary>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+**Step 1 — Add the workflow file.** Create `.github/workflows/snake.yml` in this repo's `main` branch with the content below (a ready-to-commit copy is provided separately — see `snake.yml`):
 
 ```yaml
 name: Generate Snake Animation
@@ -283,6 +283,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+**Step 2 — Give Actions write access.** Go to `Settings → Actions → General → Workflow permissions`, select **"Read and write permissions"**, then Save. Skip this and the push step silently fails — this is the #1 reason people's snake never appears.
+
+**Step 3 — Run it once manually.** Go to the `Actions` tab → select "Generate Snake Animation" → `Run workflow`. This is what actually creates the `output` branch for the first time. It will not appear on its own until this runs at least once.
+
+**Step 4 — Verify.** After the run finishes green ✅, check that a branch named `output` now exists in this repo, containing `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg`. Only then will the image above render.
 
 </details>
 

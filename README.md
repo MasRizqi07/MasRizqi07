@@ -130,12 +130,12 @@ alt="Profile Views"
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+    src="https://github-readme-stats-opal-alpha-74.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+    src="https://github-readme-stats-opal-alpha-74.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
     alt="Top Languages"
   />
 
@@ -158,7 +158,7 @@ alt="Profile Views"
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    src="https://github-profile-trophy-nu-three.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
     width="100%"
     alt="Trophies"
   />

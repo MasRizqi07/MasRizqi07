@@ -190,13 +190,11 @@ alt="Profile Views"
 
 | Project | Stack | Status | Links |
 |:-------:|:-----:|:------:|:-----:|
-| 🎬 **Becoming.** — Cinematic AI Self-Reflection App | React 19 · TypeScript · Firebase · Gemini AI | 🔨 Active | ⚠️ NEEDS LINK |
-| 🎟️ **War Ticket** — Indonesian Concert Ticketing Platform | Next.js · TypeScript · PostgreSQL · Framer Motion | 🔨 Active | ⚠️ NEEDS LINK |
-| 🧠 **Personal Portfolio** — Neural Terminal Concept | HTML · CSS · Canvas · Vanilla JS | ✅ Complete | ⚠️ NEEDS LINK |
+| 🎬 **Becoming.** — Cinematic AI Self-Reflection App | React 19 · TypeScript · Firebase · Gemini AI | 🔨 Active | [Repo](https://github.com/MasRizqi07/JuaraVibeCoding-Becoming) |
+| 🎟️ **War Ticket** — Indonesian Concert Ticketing Platform | Next.js · TypeScript · PostgreSQL · Framer Motion | 🔨 Active | [Repo](https://github.com/MasRizqi07/ProjectBuRahmiRPL-IKI) |
+| 🧠 **Personal Portfolio** — Neural Terminal Concept | HTML · CSS · Canvas · Vanilla JS | ✅ Complete | [Repo](https://github.com/MasRizqi07/pacoel-s-digital-canvas) |
 
 </div>
-
-<!-- ⚠️ UNRESOLVED: these 3 rows still have no real repo URL. Do not push to main until every "⚠️ NEEDS LINK" is replaced with an actual https://github.com/MasRizqi07/... link. A dead "#" link on a profile README is worse than no link at all. -->
 
 <br/>
 

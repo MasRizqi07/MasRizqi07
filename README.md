@@ -186,7 +186,7 @@
   />
 </div>
 
-<!-- ═══════════════════ SNAKE ANIMATION ════════════════
+<-- ═══════════════════ SNAKE ANIMATION ════════════════
      Setup steps kept out of the public-facing README —
      see the setup guide provided separately.
      Once the `output` branch exists, uncomment this block.

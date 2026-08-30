@@ -137,12 +137,12 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats-opal-alpha-74.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-opal-alpha-74.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
     alt="Top Languages"
   />
 
@@ -165,7 +165,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy-nu-three.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
     width="100%"
     alt="Trophies"
   />
@@ -175,7 +175,13 @@
 
 ---
 
-<!-- ═══════════════════ ACTIVITY GRAPH ════════════════ -->
+<!-- ═══════════════════ ACTIVITY GRAPH ════════════════
+     Disabled 2026-08-30: the public github-readme-activity-graph
+     instance is returning 402 (maintainer's own Vercel billing
+     issue, not fixable from our side). Self-host a fork to
+     restore this, or watch github.com/Ashutosh00710/github-readme-activity-graph
+     for the public instance to come back, then uncomment below.
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -185,6 +191,7 @@
     alt="Activity Graph"
   />
 </div>
+═══════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════ SNAKE ANIMATION ════════════════
      Setup steps kept out of the public-facing README —

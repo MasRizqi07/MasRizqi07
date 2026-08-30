@@ -1,13 +1,7 @@
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--       RIZQI — GitHub Profile README               -->
-<!--       Replace every YOUR_USERNAME / YOUR_XXX      -->
-<!--       with your actual handles before pushing     -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
-
 <!-- ═══════════════════ HEADER ════════════════════════ -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=220&section=header&text=Rizqi&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20Building%20Things%20That%20Scale&descAlignY=68&descSize=18&descColor=58a6ff"
+    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=220&section=header&text=Ahmad%20Rizqi%20Mubarok&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer%20%E2%80%94%20Architecture-First%2C%20Evidence-Gated&descAlignY=62&descSize=17&descColor=58a6ff"
     width="100%"
     alt="header"
   />
@@ -16,7 +10,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ══════════════ -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Informatics+Engineering+%40+ITATS+Surabaya+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;Obsessed+with+Clean+Code+%26+Scalable+Systems+%E2%9A%99%EF%B8%8F;Member+of+GDGoC+ITATS+%F0%9F%9A%80;%22Stay+Curious.+Build+Consistently.+Never+Stop+Learning.%22"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Informatics+Engineering+%40+ITATS+Surabaya+%F0%9F%8E%93;Mobile+App+Developer+%40+WebGenZ+%F0%9F%93%B1;Full-Stack%3A+NestJS+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Flutter+%E2%9A%99%EF%B8%8F;Member+of+GDGoC+ITATS+%F0%9F%9A%80;%22Ship+what+you+audit.+Trust+evidence%2C+not+claims.%22"
     alt="Typing SVG"
   />
 </div>
@@ -31,46 +25,42 @@
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
   <img
-src="https://komarev.com/ghpvc/?username=MasRizqi07&style=for-the-badge"
-alt="Profile Views"
-/>
+    src="https://komarev.com/ghpvc/?username=MasRizqi07&style=for-the-badge"
+    alt="Profile Views"
+  />
+
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════ ABOUT ME — YAML CARD ══════════ -->
+<!-- ═══════════════════ ABOUT ME ══════════════════════ -->
 ## 🧠 About Me
 
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  Name       :  Ahmad Rizqi Mubarok                      │
-│  Role:                                                  │
-│        - Informatics Engineering Student                │
-│        - Full-Stack Developer                           │
-│        - Software Engineer                              │
-│                                                         │
-│  Location   :  Surabaya, Indonesia 🇮🇩                   │
-│  College    :  ITATS — Institut Teknologi Adhi Tama     │
-│  Community  :  GDGoC ITATS (Google Developer Groups)    │
-│  Focus:                                                 │
-│         - Full-Stack Development                        │
-│         - Software Engineering                          │
-│         - System Design                                 │
-│  Status     :  Open to Collaborations & Internships 🎯  │
-│  Philosophy :  "Build things that scale.                │
-│                 Learn things that last."                │
-│                                                         │
+│                                                           │
+│  Name       :  Ahmad Rizqi Mubarok  ("Pacoel")           │
+│  Role       :  - Informatics Engineering Student         │
+│                 - Mobile App Developer @ WebGenZ         │
+│  Location   :  Surabaya, Indonesia 🇮🇩                    │
+│  College    :  ITATS — Institut Teknologi Adhi Tama      │
+│  Community  :  GDGoC ITATS (Google Developer Groups)     │
+│  Focus      :  - Full-Stack & Mobile Development         │
+│                 - Security-Conscious System Design       │
+│                 - AI-Assisted Engineering Workflows      │
+│  Status     :  Open to internships & collaborations 🎯   │
+│                                                           │
 └─────────────────────────────────────────────────────────┘
 ```
 
-- 🔭 Building **full-stack web applications** with modern stacks
-- 🌱 Actively leveling up in **System Design**, **Cloud**, and **DevOps**
-- 🏆 Competed in and built cinematic web apps in **GDGoC project contexts**
-- ⚡ Believer in: **Clean Code · Scalability · Maintainability · User-first thinking**
-- 💬 Ask me about: **React, Next.js, Node.js, TypeScript, System Architecture**
+- 🏆 Building **ICL-ITATS**, a career-intelligence platform, for **GEMASTIK XIX 2026**
+- 🔐 Running security & architecture audits across my own project portfolio — then actually fixing what they find
+- 🤖 Directing AI coding agents (Antigravity, Codex) through spec-driven builds: I write the architecture, they execute, I verify against real diffs and test output — not self-reported claims
+- 📱 Shipping mobile features as a **Mobile App Developer** at WebGenZ
+- ⚡ Deepening distributed-systems patterns — currently building a Redis-locked, high-concurrency ticket checkout engine
+- 💬 Ask me about: **NestJS, Next.js, Laravel, Flutter, system architecture, security auditing**
 
 <br/>
 
@@ -79,45 +69,62 @@ alt="Profile Views"
 <!-- ═══════════════════ TECH STACK ════════════════════ -->
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### ⚙️ Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🗄️ Database
+### 🗄️ Data & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Midtrans](https://img.shields.io/badge/Midtrans-00AA5B?style=for-the-badge&logo=payoneer&logoColor=white)
 
 ### 📚 Also Know
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🌐 Currently Learning
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🌱 Currently Deepening
+![System Design](https://img.shields.io/badge/System_Design-black?style=for-the-badge&logo=serverless&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Distributed Locking](https://img.shields.io/badge/Distributed_Locking-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<br/>
+
+---
+
+<!-- ═══════════════════ FEATURED PROJECTS ═════════════ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What it is | Stack | Status |
+|:--|:--|:--|:--|
+| 🏆 **[ICL-ITATS](https://github.com/MasRizqi07/ICL-ITATS)** | Career Intelligence Platform — competition entry for **GEMASTIK XIX 2026** | Laravel · Blade · Tailwind v4 | 🔐 Security-hardened, UI/UX polish in progress |
+| 🎟️ **[War Ticket Engine](https://github.com/MasRizqi07/ProjectBuRahmiRPL-IKI)** | High-concurrency ticket checkout engine — distributed locking + virtual waiting room for ticket-drop scale traffic | Next.js · Upstash Redis · Midtrans | 🔨 Core engine code-complete, load-test validation pending |
+| 📊 **[CuanCerdas](https://github.com/MasRizqi07/CuanCerdas)** | Robo-advisor & financial literacy app for Gen Z — risk-profile quiz, virtual portfolio on real historical NAV data | Laravel · Livewire · Alpine.js | 🎯 Personal showcase, active remediation |
+| 🎬 **[Becoming.](https://github.com/MasRizqi07/JuaraVibeCoding-Becoming)** | AI-powered cinematic self-reflection & journaling app | React 19 · Gemini API · Firebase | 🔨 Active |
+
+</div>
+
+> More work lives across [pinned repositories](https://github.com/MasRizqi07?tab=repositories) — including a Turborepo/NestJS system with multiple security-audit remediation rounds already merged.
 
 <br/>
 
@@ -179,50 +186,15 @@ alt="Profile Views"
   />
 </div>
 
-<br/>
-
----
-
-<!-- ═══════════════════ CURRENTLY BUILDING ════════════ -->
-## 🚧 Currently Building
-
-<div align="center">
-
-| Project | Stack | Status | Links |
-|:-------:|:-----:|:------:|:-----:|
-| 🎬 **Becoming.** — Cinematic AI Self-Reflection App | React 19 · TypeScript · Firebase · Gemini AI | 🔨 Active | [Repo](https://github.com/MasRizqi07/JuaraVibeCoding-Becoming) |
-| 🎟️ **War Ticket** — Indonesian Concert Ticketing Platform | Next.js · TypeScript · PostgreSQL · Framer Motion | 🔨 Active | [Repo](https://github.com/MasRizqi07/ProjectBuRahmiRPL-IKI) |
-| 🧠 **Personal Portfolio** — Neural Terminal Concept | HTML · CSS · Canvas · Vanilla JS | ✅ Complete | [Repo](https://github.com/MasRizqi07/pacoel-s-digital-canvas) |
-
-</div>
+<!-- ═══════════════════ SNAKE ANIMATION ════════════════
+     Setup steps kept out of the public-facing README —
+     see the setup guide provided separately.
+     Once the `output` branch exists, uncomment this block.
 
 <br/>
 
 ---
 
-<!-- ═══════════════════ 2026 GOALS ════════════════════ -->
-## 🎯 2026 Roadmap
-
-<div align="center">
-
-| # | Goal | Status |
-|---|------|--------|
-| 01 | 🏗️ Build **10+ production-ready** projects | 🔄 In Progress |
-| 02 | 🌐 Make meaningful **Open Source** contributions | 🔄 In Progress |
-| 03 | 🟦 **Master TypeScript** end-to-end | 🔄 In Progress |
-| 04 | 🏛️ Deep-dive into **System Design** patterns | 📖 Learning |
-| 05 | ☁️ Get hands-on with **Cloud & DevOps** (AWS/GCP) | 📖 Learning |
-| 06 | 💼 Land a **Software Engineering Internship** | 🎯 Targeting |
-| 07 | 🤝 Grow the **GDGoC ITATS** community | 🚀 Building |
-| 08 | 💪 Become a solid **Full-Stack Engineer** | 🚀 Building |
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════ SNAKE ANIMATION ══════════════ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -240,55 +212,7 @@ alt="Profile Views"
    />
   </picture>
 </div>
-
-> ⚠️ **STATUS: NOT YET ACTIVE.** The `output` branch does not exist yet in this repo — that's why the image above is currently broken. Follow all 4 steps below, in order, or it will stay broken.
-
-<details>
-<summary><b>⚙️ Snake Setup Instructions — 4 steps, do ALL of them (click to expand)</b></summary>
-
-**Step 1 — Add the workflow file.** Create `.github/workflows/snake.yml` in this repo's `main` branch with the content below (a ready-to-commit copy is provided separately — see `snake.yml`):
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2 — Give Actions write access.** Go to `Settings → Actions → General → Workflow permissions`, select **"Read and write permissions"**, then Save. Skip this and the push step silently fails — this is the #1 reason people's snake never appears.
-
-**Step 3 — Run it once manually.** Go to the `Actions` tab → select "Generate Snake Animation" → `Run workflow`. This is what actually creates the `output` branch for the first time. It will not appear on its own until this runs at least once.
-
-**Step 4 — Verify.** After the run finishes green ✅, check that a branch named `output` now exists in this repo, containing `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg`. Only then will the image above render.
-
-</details>
+═══════════════════════════════════════════════════════ -->
 
 <br/>
 
@@ -301,12 +225,12 @@ jobs:
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Great software is built through curiosity,                    ║
-║    consistency, and continuous improvement."                     ║
-║                                                                  ║
-║   Clean Code.  Scalability.  Reliability.  User-First Design.    ║
-║                                                                  ║
+║                                                                    ║
+║   "Claims aren't evidence. A green checkmark isn't either          ║
+║    unless you can point at the diff that earned it."               ║
+║                                                                    ║
+║   Architecture First.  Audit Before Ship.  Verify, Don't Trust.    ║
+║                                                                    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -321,7 +245,7 @@ jobs:
 
 <div align="center">
 
-I'm always open to **collaborations**, **open-source contributions**, and honest **engineering discussions**.
+I'm always open to **internships**, **collaborations**, and honest **engineering discussions**.
 
 If you're working on something impactful — let's connect.
 
@@ -335,7 +259,7 @@ If you're working on something impactful — let's connect.
 
 <br/>
 
-> *"Talent is useful, but consistency is what creates mastery."*
+> *"Talent is useful, but consistency — and proof — is what creates mastery."*
 
 </div>
 
@@ -352,4 +276,4 @@ If you're working on something impactful — let's connect.
   />
 </div>
 
-<!-- Made with ❤️ by Rizqi -->
+<!-- Made by Rizqi -->

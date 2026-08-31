@@ -154,12 +154,12 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats-l72g.vercel.app//api?username=MasRizqi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+    src="https://github-stats-extended.vercel.app/api?username=MasRizqi07&theme=radical/api?username=MasRizqi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-l72g.vercel.app//api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api?username=MasRizqi07&theme=radical/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
     alt="Top Languages"
   />
 

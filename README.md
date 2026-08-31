@@ -1,10 +1,27 @@
-<!-- ═══════════════════ HEADER ════════════════════════ -->
+<!-- ═══════════════════ HEADER ════════════════════════
+     Fallback active 2026-08-30: capsule-render.vercel.app
+     is returning a server-side crash on EVERY request right
+     now ("regexData is not a constructor") — confirmed via
+     their own root API endpoint, so this is an outage on
+     their end, not a param issue on ours. Using a dependency-
+     free text header until they fix their deploy. To restore
+     the banner, delete the fallback block below and uncomment this:
+
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=220&section=header&text=Ahmad%20Rizqi%20Mubarok&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer%20%E2%80%94%20Architecture-First%2C%20Evidence-Gated&descAlignY=62&descSize=17&descColor=58a6ff"
     width="100%"
     alt="header"
   />
+</div>
+═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# Ahmad Rizqi Mubarok
+
+### Full-Stack & Mobile Developer — Architecture-First, Evidence-Gated
+
 </div>
 
 <!-- ═══════════════════ TYPING ANIMATION ══════════════ -->
@@ -137,12 +154,12 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+    src="https://github-readme-stats-orpin-six-57.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+    src="https://github-readme-stats-orpin-six-57.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
     alt="Top Languages"
   />
 
@@ -165,7 +182,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    src="https://github-profile-trophy-azure-ten.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
     width="100%"
     alt="Trophies"
   />
@@ -193,11 +210,6 @@
 </div>
 ═══════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════ SNAKE ANIMATION ════════════════
-     Setup steps kept out of the public-facing README —
-     see the setup guide provided separately.
-     Once the `output` branch exists, uncomment this block.
-
 <br/>
 
 ---
@@ -219,7 +231,6 @@
    />
   </picture>
 </div>
-═══════════════════════════════════════════════════════ -->
 
 <br/>
 
@@ -274,13 +285,26 @@ If you're working on something impactful — let's connect.
 
 ---
 
-<!-- ═══════════════════ FOOTER ════════════════════════ -->
+<!-- ═══════════════════ FOOTER ════════════════════════
+     Fallback active 2026-08-30 — same capsule-render outage
+     as the header. Restore by deleting the fallback below
+     and uncommenting this:
+
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let%27s%20Ship%20Something%20Great.&fontSize=20&fontColor=58a6ff&fontAlignY=65&animation=twinkling"
     width="100%"
     alt="footer"
   />
+</div>
+═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+---
+
+**Let's Ship Something Great.**
+
 </div>
 
 <!-- Made by Rizqi -->

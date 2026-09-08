@@ -20,7 +20,7 @@ $ cat .profile
 ```
 
 ```yaml
-role:       Full Stack Web App Developer, WebGenZ (web & app dev studio, 5-person team)
+role:       Mobile App Developer, WebGenZ (web & app dev studio, 5-person team)
 domain:     Full-stack product engineering — mobile, web, backend architecture
 edu:        B.S. Informatics Engineering — Institut Teknologi Adhi Tama Surabaya (ITATS)
 org:        Google Developer Groups on Campus (GDGoC) ITATS
@@ -30,17 +30,53 @@ workflow:   architecture spec -> audit directive -> build prompt -> AI coding ag
 
 <br>
 
+```bash
+$ echo $TECH_STACK
+```
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=dart,php,ts,js&perline=4" />
+
+**Mobile & Frontend**
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,html,css&perline=6" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,postgres,mysql,firebase,prisma&perline=7" />
+
+**Infra, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,supabase,redis,githubactions,linux,bash&perline=7" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&perline=6" />
+
+**Payments & Messaging (Indonesia market)**
+
+[![Midtrans](https://img.shields.io/badge/Midtrans-528FF0?style=flat-square&logo=midtrans&logoColor=white)](https://midtrans.com)
+[![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://developers.facebook.com/docs/whatsapp)
+
+**AI-Agent Build Pipeline**
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)](https://claude.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=flat-square)
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+
+</div>
+
+<br>
+
 ```js
 const rizqi = {
   pronouns: "he" | "him",
   location: "Surabaya, Indonesia",
-  stack: {
-    languages: ["Dart", "PHP", "TypeScript", "JavaScript"],
-    mobile_frontend: ["Flutter", "React", "Next.js", "Tailwind CSS"],
-    backend_data: ["Laravel", "NestJS", "PostgreSQL", "Firebase"],
-    infra: ["Turborepo", "Redis", "Supabase", "Vercel"],
-    payments_messaging: ["Midtrans", "WhatsApp API"],
-  },
+  role: "Mobile App Developer @ WebGenZ",
   currentFocus: [
     "shipping War Ticket's checkout engine",
     "hardening CuanCerdas' data layer",

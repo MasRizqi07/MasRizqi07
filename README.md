@@ -20,7 +20,7 @@ $ cat .profile
 ```
 
 ```yaml
-role:       Mobile App Developer, WebGenZ (web & app dev studio, 5-person team)
+role:       Full Stack Web App Developer, WebGenZ (web & app dev studio, 5-person team)
 domain:     Full-stack product engineering — mobile, web, backend architecture
 edu:        B.S. Informatics Engineering — Institut Teknologi Adhi Tama Surabaya (ITATS)
 org:        Google Developer Groups on Campus (GDGoC) ITATS

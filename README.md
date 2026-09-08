@@ -6,7 +6,7 @@ $ whoami
 
 # Ahmad Rizqi Mubarok
 
-### `Mobile App Developer @ WebGenZ` · `Informatics Engineering @ ITATS Surabaya` · `GDGoC ITATS`
+### `Full Stack Web Developer @ WebGenZ` · `Informatics Engineering @ ITATS Surabaya` · `GDGoC ITATS`
 
 [![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
@@ -133,10 +133,10 @@ $ git stats --global --self-hosted
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-orpin-six-57.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats-orpin-six-57.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats-nu-sandy-12.vercel.app/api?username=MasRizqi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats-nu-sandy-12.vercel.app/api/top-langs/?username=MasRizqi07&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy-azure-ten.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-kappa-sepia.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 

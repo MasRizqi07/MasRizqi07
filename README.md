@@ -1,14 +1,17 @@
 <div align="center">
 
-# Achmad Rizqi Mubarok
-### Informatics Engineering Student · Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Achmad+Rizqi+Mubarok;Informatics+Engineering+Student;Full-Stack+Developer+%40+WebGenZ;Learning+by+Building%2C+Breaking%2C+and+Shipping)](https://git.io/typing-svg)
+
+<img src="./assets/ascii-portrait.svg" width="340" alt="ascii portrait" />
 
 Learning software engineering by building real systems, breaking assumptions, and shipping projects that survive contact with production.
 
-[![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MasRizqi07&color=70a5fd&style=flat-square&label=profile+views)
 
 </div>
 
@@ -48,15 +51,15 @@ An interactive fretboard and lesson-progression app for beginner guitarists, exp
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&perline=8" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,go&perline=6" />
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase&perline=3" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,redis&perline=5" />
 
 **Mobile**
 
@@ -68,14 +71,17 @@ An interactive fretboard and lesson-progression app for beginner guitarists, exp
 
 **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm,figma,postman&perline=8" />
 
 **AI-Assisted Engineering**
 
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)](https://claude.com)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
-![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=flat-square)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)](https://cursor.com)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)](https://cursor.com)
+![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-00B4AB?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-FF66C4?style=for-the-badge)
 
 I use AI as an engineering accelerator for research, scaffolding, and code review — architecture decisions, debugging, and testing strategy stay under my own judgment, not delegated wholesale.
 
@@ -96,6 +102,10 @@ Backend architecture & system design · Application security · CI/CD pipelines 
 
 <img src="https://streak-stats.demolab.com/?user=MasRizqi07&theme=tokyonight&hide_border=true" />
 
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br>
@@ -121,9 +131,9 @@ Questions I keep coming back to when building something: *Where can this fail? I
 
 Interested in software engineering, collaboration, or building useful products — feel free to reach out.
 
-[![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
 
 <br>
 

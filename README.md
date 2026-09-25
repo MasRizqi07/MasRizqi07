@@ -1,110 +1,93 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Ahmad+Rizqi+Mubarok;Mobile+App+Developer+%40+WebGenZ;Informatics+Engineering+%40+ITATS;Architecture-first+%2C+Agent-executed)](https://git.io/typing-svg)
+# Achmad Rizqi Mubarok
+### Informatics Engineering Student · Full-Stack Developer
 
-<img src="./assets/ascii-portrait.svg" width="360" alt="ascii portrait" />
+Learning software engineering by building real systems, breaking assumptions, and shipping projects that survive contact with production.
 
-[![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MasRizqi07&color=70a5fd&style=flat-square&label=profile+views)
+[![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pacoel.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
 
 </div>
 
 <br>
 
-```bash
-$ cat .profile
-```
+## What I Do
 
-```yaml
-role:       Mobile App Developer, WebGenZ (web & app dev studio, 5-person team)
-domain:     Full-stack product engineering — mobile, web, backend architecture
-edu:        B.S. Informatics Engineering — Institut Teknologi Adhi Tama Surabaya (ITATS)
-org:        Google Developer Groups on Campus (GDGoC) ITATS
-side_quest: 10+ project portfolio built & audited in parallel — see below
-workflow:   architecture spec -> audit directive -> build prompt -> AI coding agent execution
-```
+I'm an Informatics Engineering student at Institut Teknologi Adhi Tama Surabaya (ITATS), building toward a career as a professional Software Engineer. I don't treat tutorials as the finish line — my process is closer to **learn → build → break → debug → improve → ship → document → repeat**. Most of what I know about a system, I learned by finding out where it fails.
+
+**Engineering focus:** Full-Stack Web Development · Backend & System Design · Application Security · Developer Experience · AI-Assisted Engineering Workflows
 
 <br>
 
-```bash
-$ echo $TECH_STACK
-```
+## Featured Projects
 
-<div align="center">
+**[Career Intelligence Platform](https://github.com/MasRizqi07/ICL-ITATS)** · Laravel, PHP
+Built with a 3-person team for GEMASTIK XIX 2026. A career-readiness platform combining skill assessment, competency scoring, and AI-assisted evaluation concepts — mapped to SDG 4, 8, and 9.
 
-**Languages**
+**WAR EVENT** · Next.js, TypeScript, Prisma, PostgreSQL
+Event registration platform built to stress-test identity handling and capacity control under concurrent load. Surfaced real authentication weaknesses and migration issues that became the project's central engineering lesson, not an afterthought.
 
-<img src="https://skillicons.dev/icons?i=dart,php,ts,js&perline=4" />
+**GovernmentPortal** · PHP, Laravel
+A government-service application restructured around domain events (`Submitted → Verified → Approved → Rejected`), listeners, and queue-ready notification architecture — a deliberate exercise in keeping a backend auditable as it grows.
 
-**Mobile & Frontend**
+**DevTracker** · Next.js, TypeScript, Tailwind CSS
+Developer productivity tracker with XP, streaks, and achievement systems. Started as a UI exercise and turned into a deeper problem: designing authentication and persistence for a habit-tracking product, not just rendering a dashboard.
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,html,css&perline=6" />
+**Cold 'N Brew** · Next.js, Socket.IO
+A coffee-shop operations concept — POS, kitchen display system, and QR ordering wired together with real-time order status. Approached from the operational workflow side (order lifecycle, kitchen state) rather than just the customer-facing UI.
 
-**Backend & Database**
+**Guitar Learning Platform** · Next.js
+An interactive fretboard and lesson-progression app for beginner guitarists, exploring audio interaction and structured learning flow within a standard component architecture.
 
-<img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,postgres,mysql,firebase,prisma&perline=7" />
+<br>
 
-**Infra, Cloud & DevOps**
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,supabase,redis,githubactions,linux,bash&perline=7" />
+**Frontend**
 
-**Tools & Workflow**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&perline=6" />
+**Backend**
 
-**Payments & Messaging (Indonesia market)**
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&perline=5" />
 
-[![Midtrans](https://img.shields.io/badge/Midtrans-528FF0?style=flat-square&logo=midtrans&logoColor=white)](https://midtrans.com)
-[![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://developers.facebook.com/docs/whatsapp)
+**Database**
 
-**AI-Agent Build Pipeline**
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase&perline=3" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=2" />
+
+**Infrastructure & Deployment**
+
+<img src="https://skillicons.dev/icons?i=vercel,railway,docker,githubactions&perline=4" />
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&perline=5" />
+
+**AI-Assisted Engineering**
 
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)](https://claude.com)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 ![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=flat-square)
-[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)](https://cursor.com)
 
-</div>
-
-<br>
-
-```js
-const rizqi = {
-  pronouns: "he" | "him",
-  location: "Surabaya, Indonesia",
-  role: "Mobile App Developer @ WebGenZ",
-  currentFocus: [
-    "shipping War Ticket's checkout engine",
-    "hardening CuanCerdas' data layer",
-    "GEMASTIK XIX 2026 prep",
-  ],
-  workStyle: "architecture-first — spec it, audit it, then let an agent build it",
-  funFact: "runs a personal fleet of AI coding agents (Antigravity/Codex/Devin) like a one-man eng team",
-};
-```
+I use AI as an engineering accelerator for research, scaffolding, and code review — architecture decisions, debugging, and testing strategy stay under my own judgment, not delegated wholesale.
 
 <br>
 
-```bash
-$ git log --oneline --graph --decorate ./featured-projects
-```
+## Currently Exploring
 
-| project | stack | what it does |
-|---|---|---|
-| **[ICL-ITATS](https://github.com/MasRizqi07/ICL-ITATS)** | Laravel · Blade · Tailwind v4 | Career Intelligence Platform built for GEMASTIK XIX 2026 — dynamic career recommendation engine with an access-control hardening pass |
-| **[CuanCerdas](https://github.com/MasRizqi07/CuanCerdas)** | Laravel 13 · Livewire · Alpine.js | Robo-advisor & financial literacy app for Gen Z — risk-profile quiz, rule-based asset allocation, paper-trading portfolio on real historical NAV data |
-| **[BecomingNext-Project](https://github.com/MasRizqi07/BecomingNext-Project)** | React · Vite · Firebase | Reflection/journaling app with a dual-axis (drifting vs. intentional) radar-chart insight engine |
-| **[ProjectBuRahmiRPL-IKI](https://github.com/MasRizqi07/ProjectBuRahmiRPL-IKI)** | Next.js · Upstash Redis · Midtrans | High-concurrency concert ticket checkout engine — queue admission, distributed locking, payment-integrity hardening for ticket-drop scale traffic |
+Backend architecture & system design · Application security · CI/CD pipelines · PostgreSQL internals · Testing strategy · AI-assisted engineering workflows
 
 <br>
 
-```bash
-$ git stats --global --self-hosted
-```
+## GitHub Activity
 
 <div align="center">
 
@@ -113,20 +96,39 @@ $ git stats --global --self-hosted
 
 <img src="https://streak-stats.demolab.com/?user=MasRizqi07&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy-pi-beryl.vercel.app/?username=MasRizqi07&theme=tokyonight&no-frame=true&row=1&column=7" />
-
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/MasRizqi07/MasRizqi07/output/github-contribution-grid-snake.svg" />
-</div>
+## Engineering Philosophy
+
+```
+Student
+  → learning computer science & software engineering
+  → building projects
+  → finding technical problems
+  → debugging and improving architecture
+  → exploring multiple technologies
+  → developing stronger engineering judgment
+  → growing toward professional software engineering
+```
+
+Questions I keep coming back to when building something: *Where can this fail? Is the data model correct? Can another developer understand this without me explaining it? What happens in production, not just in dev?*
+
+<br>
+
+## Connect
+
+Interested in software engineering, collaboration, or building useful products — feel free to reach out.
+
+[![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achmadriskim07@gmail.com)
 
 <br>
 
 <div align="center">
 
-`Surabaya, Indonesia` · reach me at [achmadriskim07@gmail.com](mailto:achmadriskim07@gmail.com)
+**Pacoel.dev** — building my way into software engineering.
 
 </div>

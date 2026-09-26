@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Achmad+Rizqi+Mubarok;Informatics+Engineering+Student;Full-Stack+Developer+%40+WebGenZ;Learning+by+Building%2C+Breaking%2C+and+Shipping)](https://git.io/typing-svg)
 
-<img src="./assets/ascii-portrait.svg" width="340" alt="ascii portrait" />
+<img src="./assets/ascii-portrait.svg" width="200" alt="ascii portrait" />
 
-Learning software engineering by building real systems, breaking assumptions, and shipping projects that survive contact with production.
+<img src="./assets/system-info.svg" width="820" alt="system info" />
 
 [![Portfolio](https://img.shields.io/badge/pacoel.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pacoel-dev-folio.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rizqi-mubarok-4b4598376)
@@ -27,23 +27,23 @@ I'm an Informatics Engineering student at Institut Teknologi Adhi Tama Surabaya 
 
 ## Featured Projects
 
+<div align="center">
+<img src="./assets/projects-grid.svg" width="820" alt="featured projects" />
+</div>
+
+<br>
+
 **[Career Intelligence Platform](https://github.com/MasRizqi07/ICL-ITATS)** · Laravel, PHP
 Built with a 3-person team for GEMASTIK XIX 2026. A career-readiness platform combining skill assessment, competency scoring, and AI-assisted evaluation concepts — mapped to SDG 4, 8, and 9.
 
-**WAR EVENT** · Next.js, TypeScript, Prisma, PostgreSQL
-Event registration platform built to stress-test identity handling and capacity control under concurrent load. Surfaced real authentication weaknesses and migration issues that became the project's central engineering lesson, not an afterthought.
+**CuanCerdas** · Laravel, Livewire
+Robo-advisor & financial literacy app for Gen Z — risk-profile quiz, rule-based asset allocation, paper-trading portfolio on real historical NAV data.
 
-**GovernmentPortal** · PHP, Laravel
-A government-service application restructured around domain events (`Submitted → Verified → Approved → Rejected`), listeners, and queue-ready notification architecture — a deliberate exercise in keeping a backend auditable as it grows.
+**BecomingNext-Project** · React, Firebase
+Reflection/journaling app with a dual-axis (drifting vs. intentional) radar-chart insight engine.
 
-**DevTracker** · Next.js, TypeScript, Tailwind CSS
-Developer productivity tracker with XP, streaks, and achievement systems. Started as a UI exercise and turned into a deeper problem: designing authentication and persistence for a habit-tracking product, not just rendering a dashboard.
-
-**Cold 'N Brew** · Next.js, Socket.IO
-A coffee-shop operations concept — POS, kitchen display system, and QR ordering wired together with real-time order status. Approached from the operational workflow side (order lifecycle, kitchen state) rather than just the customer-facing UI.
-
-**Guitar Learning Platform** · Next.js
-An interactive fretboard and lesson-progression app for beginner guitarists, exploring audio interaction and structured learning flow within a standard component architecture.
+**ProjectBuRahmiRPL-IKI** · Next.js, Redis
+High-concurrency concert ticket checkout engine — queue admission, distributed locking, payment-integrity hardening for ticket-drop scale traffic.
 
 <br>
 
@@ -94,6 +94,12 @@ Backend architecture & system design · Application security · CI/CD pipelines 
 <br>
 
 ## GitHub Activity
+
+<div align="center">
+<img src="./assets/stats-bricks.svg" width="820" alt="stats bricks" />
+</div>
+
+<br>
 
 <div align="center">
 
